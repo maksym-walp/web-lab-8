@@ -80,6 +80,9 @@ main{
     padding: 3vh 1vh; 
     background-color: rgb(194, 220, 237);
     border-radius: 2vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
 }
 
 .advertise2{
